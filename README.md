@@ -242,3 +242,5 @@ pod 'ScrollPageView', '~> 0.1.1'
 ## License
 
 ScrollPageView is released under the MIT license. See LICENSE for details.
+
+原文链接：http://code.cocoachina.com/view/130837
